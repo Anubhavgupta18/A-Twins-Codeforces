@@ -12,3 +12,6 @@ The first line contains integer n (1 ≤ n ≤ 100) — the number of co
 
 Output
 In the single line print the single number — the minimum needed number of coins.
+
+My diect link to the problem:https://codeforces.com/problemset/problem/160/A
+My diect link to the submission:https://codeforces.com/contest/160/submission/157219175
