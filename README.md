@@ -1,4 +1,4 @@
-# Codeforces-Problemset
+# A-Twins-Codeforces
 MY SOLUTION TO THE TWINS PROBLEM:-
 
 Imagine that you have a twin brother or sister. Having another person that looks exactly like you seems very unusual. It's hard to say if having something of an alter ego is good or bad. And if you do have a twin, then you very well know what it's like.
